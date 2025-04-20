@@ -1,0 +1,75 @@
+[
+    {
+      "id": 0,
+      "projectName": "JMM ERP",
+      "url": "https://jmmerp.com/",
+      "image": "projects/erp.png",
+      "projectDetail": "Restructure your business with JMM ERP’s all-in-one cloud-based ERP. JMM ERP provides a robust, cost-effective online solution with state-of-the-art software to increase business value and enhance customer impact.",
+      "technologiesUsed": ["ReactJS", ".net", "GraphQL", "Ant Design", "TailwindCSS"]
+    },
+    {
+      "id": 1,
+      "projectName": "ABSCO",
+      "url": "https://absco.sa/",
+      "image": "projects/absco.png",
+      "projectDetail": "ABSCO offer unparalleled business consulting solutions to meet client’s unique needs.",
+      "technologiesUsed": ["ReactJS", "Ant Design", "TailwindCSS"]
+    },
+    {
+      "id": 2,
+      "projectName": "JMM Technologies",
+      "url": "https://jmm.ltd/",
+      "image": "projects/jmm.png",
+      "projectDetail": "JMM Technologies is a start-up turned technology company with extensive years of experience delivering digital solutions.",
+      "technologiesUsed": ["ReactJS", ".net", "REST API's", "Ant Design", "TailwindCSS"]
+    },
+    {
+      "id": 3,
+      "projectName": "ALSN",
+      "url": "https://alsn.app/",
+      "image": "projects/alsn.png",
+      "projectDetail": "ASLN drives digital transformation with certified document translation services.",
+      "technologiesUsed": ["ReactJS", ".net", "REST API's", "Ant Design", "TailwindCSS"]
+    },
+    {
+      "id": 4,
+      "projectName": "FirmSanad",
+      "url": "/domain-expired",
+      "image": "projects/firmsanad.png",
+      "projectDetail": "Invest in Saudi Arabia, streamline your business setup process with FirmSanad.",
+      "technologiesUsed": ["ReactJS", ".net", "REST API's", "Ant Design", "TailwindCSS"]
+    },
+    {
+      "id": 5,
+      "projectName": "Fateh Al Mustaqbil",
+      "url": "https://fatehtour.com/",
+      "image": "projects/fateh.png",
+      "projectDetail": "Fateh Al Mustaqbil is a one-of-a-kind travel agency tailored for travelers worldwide.",
+      "technologiesUsed": ["ReactJS", ".net", "REST API's", "Ant Design", "TailwindCSS"]
+    },
+    {
+      "id": 6,
+      "projectName": "Tojjar",
+      "url": "/domain-expired",
+      "image": "projects/tojjar.png",
+      "projectDetail": "Tojjar is an ecommerce platform where you can open your store and sell products.",
+      "technologiesUsed": ["Nextjs with SSR", "Laravel", "REST API's", "Ant Design", "TailwindCSS"]
+    },
+    {
+      "id": 7,
+      "projectName": "Otawix",
+      "url": "https://b2c.otawix.com/",
+      "image": "projects/otawix.png",
+      "projectDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "technologiesUsed": ["NextJS", "NodeJS", "REST API's", "MUI", "TailwindCSS"]
+    },
+    {
+      "id": 8,
+      "projectName": "Spatay",
+      "url": "https://spatay.com/",
+      "image": "projects/spatay.png",
+      "projectDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "technologiesUsed": ["ReactJS", "NodeJS", "REST API's", "Ant Design", "TailwindCSS"]
+    }
+  ]
+  
